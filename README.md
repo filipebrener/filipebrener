@@ -1,7 +1,16 @@
 ### Olá! Eu sou Filipe Brener
 
-- 🔭 Atualmente trabalhando em projetos pessoais focados em back-end Java
-- 🌱 Estudando: Java, Spring framework, Spring Boot, Data, Security, Gradle e Maven, testes com JUnit e Mockito 
+- Stack Java: Java, Spring(Boot, MVC), Groovy/Grails, JPA/Hibernate, Maven, Gradle, Junit
+
+- Stack JS: JavaScript, HTML5, CSS3, Angular, Vue, TypeScript
+
+- Tools: GIT, Postman, DBeaver
+
+- OS/environment: Linux, docker
+
+- DataBase: MySQL, MariaDB, Postgree, SQL
+
+- Development: Agile (Scrum, Kanban), BDD, TDD, CI/CD 
 
 
  <div>
